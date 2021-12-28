@@ -1,0 +1,80 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(168, 247, 220);
+    padding: 10px;
+}
+
+header b {
+    color: rgb(2, 2, 95);
+}
+
+header a {
+    background-color: white;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 10px;
+    border: 2px solid white;
+    
+}
+
+h1 {
+    color: rgb(25, 25, 192);
+    text-align: center;
+    font-weight: 500;
+}
+
+footer p {
+   border: 2px solid grey;
+   padding: 2px;
+
+}
+
+footer b {
+    margin-left: 15px;
+}
+
+nav a{
+    text-decoration: none;
+    background-color: darkblue;
+    color:white;
+    padding: 3px;
+    border: 2px solid darkblue;
+    border-radius: 10px;
+    margin: 22px;
+}
+
+nav{
+    margin: 17px;
+    text-align: center;
+}
+
+.first{
+    background-color: white;
+    color: darkblue;
+}
+
+.product{
+    background-color: #eb9e3a;
+    border: 1px solid rgb(165, 42, 42);
+    border-radius: 10px;
+    padding: 7px;
+}
+
+h2{
+    color: blue;
+}
+
+.season{
+    border: 2px solid lightblue;
+    border-radius: 10px;
+}
+
+.contact{
+    border: 3px solid darkblue;
+    padding: 5px;
+    text-decoration: none;
+
+}
